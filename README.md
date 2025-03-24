@@ -1,4 +1,4 @@
-## Hi there 👋
+## Обо мне 👋
 
 <!--
 **dragonpuffle/dragonpuffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Привет! я python разработчик с опытом работы более 2-х лет, и я ищу стажировки и работу на позицию python backend разработки.
+
+Мой стек технологий: Python, FastAPI, Git, REST API, PostgreSQL, Backend, Pytest, HTTP, Requests, Английский язык, Numpy, pandas, Matplotlib, OpenCV, Scikit-learn.
+
+Сейчас я изучаю работу с HTTP запросами, сервером и занимаюсь разработкой на FastAPI. Планирую изучить Docker, SQLAlchemy, многопоточность, асинхронность и написать свой api.
+
+Связь со мной:
+- telegram: [@ha_runduk](https://t.me/ha_runduk)
+  
+- mail: podviginandrej@gmail.com
