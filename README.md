@@ -17,7 +17,23 @@ Here are some ideas to get you started:
 
 Привет! я python разработчик с опытом работы более 2-х лет, и я ищу стажировки и работу на позицию python backend разработки.
 
-Мой стек технологий: Python, FastAPI, Git, REST API, PostgreSQL, Backend, Pytest, HTTP, Requests, Английский язык, Numpy, pandas, Matplotlib, OpenCV, Scikit-learn.
+Мой стек технологий: Python,
+FastAPI,
+Git,
+REST API,
+PostgreSQL,
+Docker,
+Linux,
+SQL,
+HTTP,
+Requests,
+Английский язык B2,
+Pytest,
+Numpy,
+pandas,
+Matplotlib,
+OpenCV,
+Scikit-learn
 
 Сейчас я изучаю работу с HTTP запросами, сервером и занимаюсь разработкой на FastAPI. Планирую изучить Docker, SQLAlchemy, многопоточность, асинхронность и написать свой api.
 
