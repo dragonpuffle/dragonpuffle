@@ -33,9 +33,11 @@ Numpy,
 pandas,
 Matplotlib,
 OpenCV,
-Scikit-learn
+Scikit-learn, 
+Pydantic.
+SQLAlchemy.
 
-Сейчас я изучаю работу с HTTP запросами, сервером и занимаюсь разработкой на FastAPI. Планирую изучить SQLAlchemy, многопоточность, асинхронность и написать свой api.
+Сейчас я изучаю работу с HTTP запросами, сервером и занимаюсь разработкой на FastAPI. Планирую изучать дальше SQLAlchemy и FastAPI, многопоточность, асинхронность и написать свой api.
 
 Связь со мной:
 - telegram: [@ha_runduk](https://t.me/ha_runduk)
