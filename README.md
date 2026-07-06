@@ -6,6 +6,6 @@
 Умею использовать AI-инструменты как для ускорения разработки, так и для решения бизнес-задач: автоматизации, обработки данных и внедрения AI в продуктовые процессы.
 
 Связь со мной:
-- telegram: [@ha_runduk](https://t.me/hangeww)
+- telegram: [@hangeww](https://t.me/hangeww)
   
 - mail: podvigin.work@gmail.com
